@@ -7,6 +7,7 @@ function Product(props) {
       <h1>Product name: {props.name}</h1>
       <h3>Product price: {props.price}</h3>
       <p>Product quantity: {props.quantity}</p>
+      <button>Buy Now</button>
     </div>
   );
 }

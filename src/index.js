@@ -1,5 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./App";
+import Countdown from "./Countdown";
 
-ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(<Countdown />, document.getElementById("root"));

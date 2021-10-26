@@ -1,5 +1,22 @@
-.block-unit {
+/* .block-unit {
   padding: 15px 40px;
   border: 3px solid #7c7323;
   margin: 10px;
+} */
+div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+p {
+  font-size: 3rem;
+}
+
+button {
+  padding: 10px 20px;
+  border: 1px solid rgb(109, 59, 59);
+  border-radius: 5px;
+  margin-bottom: 15px;
+  cursor: pointer;
 }
